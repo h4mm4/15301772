@@ -1,5 +1,1 @@
-- 👋 Hi, I'm Liang Xin, a full stack development engineer. 
-- 👀 I'm still a student. I like cooking. 
-- 🌱 I'm a free teenager.
-- 💞️ A technical person with three outlooks more positive than the protagonist.
-- 📫 wx:Bugatti_essay
+
